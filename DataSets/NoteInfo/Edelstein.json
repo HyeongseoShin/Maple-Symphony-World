@@ -1,0 +1,1281 @@
+{
+	"uniqueIdentifier": "36fb56d2240e42f9bd4b317e437c2c6f",
+	"bundleIdentifier": "2c89a498317848aab9fe46cd70bf74bb",
+	"category": "userdataset",
+	"entryId": "5abfdacb-71ad-4c57-8d9d-d2e815cea2d4",
+	"contents": [
+		{
+		    "name": "Edelstein",
+		    "id": "5abfdacb-71ad-4c57-8d9d-d2e815cea2d4",
+		    "serveronly": false,
+		    "columns": [
+		        "index",
+		        "posInBeat",
+		        "s",
+		        "nodeType"
+		    ],
+		    "datas": [
+		        {
+		            "posInBeat": "0.5",
+		            "s": "0.6593406593",
+		            "nodeType": "1",
+		            "index": "1"
+		        },
+		        {
+		            "posInBeat": "1",
+		            "s": "1.318681319",
+		            "nodeType": "1",
+		            "index": "2"
+		        },
+		        {
+		            "posInBeat": "1.5",
+		            "s": "1.978021978",
+		            "nodeType": "1",
+		            "index": "3"
+		        },
+		        {
+		            "posInBeat": "2",
+		            "s": "2.637362637",
+		            "nodeType": "1",
+		            "index": "4"
+		        },
+		        {
+		            "posInBeat": "2.5",
+		            "s": "3.296703297",
+		            "nodeType": "1",
+		            "index": "5"
+		        },
+		        {
+		            "posInBeat": "3",
+		            "s": "3.956043956",
+		            "nodeType": "1",
+		            "index": "6"
+		        },
+		        {
+		            "posInBeat": "3.5",
+		            "s": "4.615384615",
+		            "nodeType": "1",
+		            "index": "7"
+		        },
+		        {
+		            "posInBeat": "4",
+		            "s": "5.274725275",
+		            "nodeType": "1",
+		            "index": "8"
+		        },
+		        {
+		            "posInBeat": "4.5",
+		            "s": "5.934065934",
+		            "nodeType": "1",
+		            "index": "9"
+		        },
+		        {
+		            "posInBeat": "5",
+		            "s": "6.593406593",
+		            "nodeType": "1",
+		            "index": "10"
+		        },
+		        {
+		            "posInBeat": "5.5",
+		            "s": "7.252747253",
+		            "nodeType": "1",
+		            "index": "11"
+		        },
+		        {
+		            "posInBeat": "6",
+		            "s": "7.912087912",
+		            "nodeType": "1",
+		            "index": "12"
+		        },
+		        {
+		            "posInBeat": "6.5",
+		            "s": "8.571428571",
+		            "nodeType": "1",
+		            "index": "13"
+		        },
+		        {
+		            "posInBeat": "7",
+		            "s": "9.230769231",
+		            "nodeType": "1",
+		            "index": "14"
+		        },
+		        {
+		            "posInBeat": "7.5",
+		            "s": "9.89010989",
+		            "nodeType": "1",
+		            "index": "15"
+		        },
+		        {
+		            "posInBeat": "8",
+		            "s": "10.54945055",
+		            "nodeType": "1",
+		            "index": "16"
+		        },
+		        {
+		            "posInBeat": "8.5",
+		            "s": "11.20879121",
+		            "nodeType": "1",
+		            "index": "17"
+		        },
+		        {
+		            "posInBeat": "9",
+		            "s": "11.86813187",
+		            "nodeType": "1",
+		            "index": "18"
+		        },
+		        {
+		            "posInBeat": "9.5",
+		            "s": "12.52747253",
+		            "nodeType": "1",
+		            "index": "19"
+		        },
+		        {
+		            "posInBeat": "10",
+		            "s": "13.18681319",
+		            "nodeType": "1",
+		            "index": "20"
+		        },
+		        {
+		            "posInBeat": "10.5",
+		            "s": "13.84615385",
+		            "nodeType": "1",
+		            "index": "21"
+		        },
+		        {
+		            "posInBeat": "11",
+		            "s": "14.50549451",
+		            "nodeType": "1",
+		            "index": "22"
+		        },
+		        {
+		            "posInBeat": "11.5",
+		            "s": "15.16483516",
+		            "nodeType": "1",
+		            "index": "23"
+		        },
+		        {
+		            "posInBeat": "12",
+		            "s": "15.82417582",
+		            "nodeType": "1",
+		            "index": "24"
+		        },
+		        {
+		            "posInBeat": "12.5",
+		            "s": "16.48351648",
+		            "nodeType": "1",
+		            "index": "25"
+		        },
+		        {
+		            "posInBeat": "13",
+		            "s": "17.14285714",
+		            "nodeType": "1",
+		            "index": "26"
+		        },
+		        {
+		            "posInBeat": "13.5",
+		            "s": "17.8021978",
+		            "nodeType": "1",
+		            "index": "27"
+		        },
+		        {
+		            "posInBeat": "14",
+		            "s": "18.46153846",
+		            "nodeType": "1",
+		            "index": "28"
+		        },
+		        {
+		            "posInBeat": "14.5",
+		            "s": "19.12087912",
+		            "nodeType": "1",
+		            "index": "29"
+		        },
+		        {
+		            "posInBeat": "15",
+		            "s": "19.78021978",
+		            "nodeType": "1",
+		            "index": "30"
+		        },
+		        {
+		            "posInBeat": "15.5",
+		            "s": "20.43956044",
+		            "nodeType": "1",
+		            "index": "31"
+		        },
+		        {
+		            "posInBeat": "16",
+		            "s": "21.0989011",
+		            "nodeType": "1",
+		            "index": "32"
+		        },
+		        {
+		            "posInBeat": "16.5",
+		            "s": "21.75824176",
+		            "nodeType": "1",
+		            "index": "33"
+		        },
+		        {
+		            "posInBeat": "17",
+		            "s": "22.41758242",
+		            "nodeType": "1",
+		            "index": "34"
+		        },
+		        {
+		            "posInBeat": "17.5",
+		            "s": "23.07692308",
+		            "nodeType": "1",
+		            "index": "35"
+		        },
+		        {
+		            "posInBeat": "18",
+		            "s": "23.73626374",
+		            "nodeType": "1",
+		            "index": "36"
+		        },
+		        {
+		            "posInBeat": "18.5",
+		            "s": "24.3956044",
+		            "nodeType": "1",
+		            "index": "37"
+		        },
+		        {
+		            "posInBeat": "19",
+		            "s": "25.05494505",
+		            "nodeType": "1",
+		            "index": "38"
+		        },
+		        {
+		            "posInBeat": "19.5",
+		            "s": "25.71428571",
+		            "nodeType": "1",
+		            "index": "39"
+		        },
+		        {
+		            "posInBeat": "20",
+		            "s": "26.37362637",
+		            "nodeType": "1",
+		            "index": "40"
+		        },
+		        {
+		            "posInBeat": "20.5",
+		            "s": "27.03296703",
+		            "nodeType": "1",
+		            "index": "41"
+		        },
+		        {
+		            "posInBeat": "21",
+		            "s": "27.69230769",
+		            "nodeType": "1",
+		            "index": "42"
+		        },
+		        {
+		            "posInBeat": "21.5",
+		            "s": "28.35164835",
+		            "nodeType": "1",
+		            "index": "43"
+		        },
+		        {
+		            "posInBeat": "22",
+		            "s": "29.01098901",
+		            "nodeType": "1",
+		            "index": "44"
+		        },
+		        {
+		            "posInBeat": "22.5",
+		            "s": "29.67032967",
+		            "nodeType": "1",
+		            "index": "45"
+		        },
+		        {
+		            "posInBeat": "23",
+		            "s": "30.32967033",
+		            "nodeType": "1",
+		            "index": "46"
+		        },
+		        {
+		            "posInBeat": "23.5",
+		            "s": "30.98901099",
+		            "nodeType": "1",
+		            "index": "47"
+		        },
+		        {
+		            "posInBeat": "24",
+		            "s": "31.64835165",
+		            "nodeType": "1",
+		            "index": "48"
+		        },
+		        {
+		            "posInBeat": "24.5",
+		            "s": "32.30769231",
+		            "nodeType": "1",
+		            "index": "49"
+		        },
+		        {
+		            "posInBeat": "25",
+		            "s": "32.96703297",
+		            "nodeType": "1",
+		            "index": "50"
+		        },
+		        {
+		            "posInBeat": "25.5",
+		            "s": "33.62637363",
+		            "nodeType": "1",
+		            "index": "51"
+		        },
+		        {
+		            "posInBeat": "26",
+		            "s": "34.28571429",
+		            "nodeType": "1",
+		            "index": "52"
+		        },
+		        {
+		            "posInBeat": "26.5",
+		            "s": "34.94505495",
+		            "nodeType": "1",
+		            "index": "53"
+		        },
+		        {
+		            "posInBeat": "27",
+		            "s": "35.6043956",
+		            "nodeType": "1",
+		            "index": "54"
+		        },
+		        {
+		            "posInBeat": "27.5",
+		            "s": "36.26373626",
+		            "nodeType": "1",
+		            "index": "55"
+		        },
+		        {
+		            "posInBeat": "28",
+		            "s": "36.92307692",
+		            "nodeType": "1",
+		            "index": "56"
+		        },
+		        {
+		            "posInBeat": "28.5",
+		            "s": "37.58241758",
+		            "nodeType": "1",
+		            "index": "57"
+		        },
+		        {
+		            "posInBeat": "29",
+		            "s": "38.24175824",
+		            "nodeType": "1",
+		            "index": "58"
+		        },
+		        {
+		            "posInBeat": "29.5",
+		            "s": "38.9010989",
+		            "nodeType": "1",
+		            "index": "59"
+		        },
+		        {
+		            "posInBeat": "30",
+		            "s": "39.56043956",
+		            "nodeType": "1",
+		            "index": "60"
+		        },
+		        {
+		            "posInBeat": "30.5",
+		            "s": "40.21978022",
+		            "nodeType": "1",
+		            "index": "61"
+		        },
+		        {
+		            "posInBeat": "31",
+		            "s": "40.87912088",
+		            "nodeType": "1",
+		            "index": "62"
+		        },
+		        {
+		            "posInBeat": "31.5",
+		            "s": "41.53846154",
+		            "nodeType": "1",
+		            "index": "63"
+		        },
+		        {
+		            "posInBeat": "32",
+		            "s": "42.1978022",
+		            "nodeType": "1",
+		            "index": "64"
+		        },
+		        {
+		            "posInBeat": "32.5",
+		            "s": "42.85714286",
+		            "nodeType": "1",
+		            "index": "65"
+		        },
+		        {
+		            "posInBeat": "33",
+		            "s": "43.51648352",
+		            "nodeType": "1",
+		            "index": "66"
+		        },
+		        {
+		            "posInBeat": "33.5",
+		            "s": "44.17582418",
+		            "nodeType": "1",
+		            "index": "67"
+		        },
+		        {
+		            "posInBeat": "34",
+		            "s": "44.83516484",
+		            "nodeType": "1",
+		            "index": "68"
+		        },
+		        {
+		            "posInBeat": "34.5",
+		            "s": "45.49450549",
+		            "nodeType": "1",
+		            "index": "69"
+		        },
+		        {
+		            "posInBeat": "35",
+		            "s": "46.15384615",
+		            "nodeType": "1",
+		            "index": "70"
+		        },
+		        {
+		            "posInBeat": "35.5",
+		            "s": "46.81318681",
+		            "nodeType": "1",
+		            "index": "71"
+		        },
+		        {
+		            "posInBeat": "36",
+		            "s": "47.47252747",
+		            "nodeType": "1",
+		            "index": "72"
+		        },
+		        {
+		            "posInBeat": "36.5",
+		            "s": "48.13186813",
+		            "nodeType": "1",
+		            "index": "73"
+		        },
+		        {
+		            "posInBeat": "37",
+		            "s": "48.79120879",
+		            "nodeType": "1",
+		            "index": "74"
+		        },
+		        {
+		            "posInBeat": "37.5",
+		            "s": "49.45054945",
+		            "nodeType": "1",
+		            "index": "75"
+		        },
+		        {
+		            "posInBeat": "38",
+		            "s": "50.10989011",
+		            "nodeType": "1",
+		            "index": "76"
+		        },
+		        {
+		            "posInBeat": "38.5",
+		            "s": "50.76923077",
+		            "nodeType": "1",
+		            "index": "77"
+		        },
+		        {
+		            "posInBeat": "39",
+		            "s": "51.42857143",
+		            "nodeType": "1",
+		            "index": "78"
+		        },
+		        {
+		            "posInBeat": "39.5",
+		            "s": "52.08791209",
+		            "nodeType": "1",
+		            "index": "79"
+		        },
+		        {
+		            "posInBeat": "40",
+		            "s": "52.74725275",
+		            "nodeType": "1",
+		            "index": "80"
+		        },
+		        {
+		            "posInBeat": "40.5",
+		            "s": "53.40659341",
+		            "nodeType": "1",
+		            "index": "81"
+		        },
+		        {
+		            "posInBeat": "41",
+		            "s": "54.06593407",
+		            "nodeType": "1",
+		            "index": "82"
+		        },
+		        {
+		            "posInBeat": "41.5",
+		            "s": "54.72527473",
+		            "nodeType": "1",
+		            "index": "83"
+		        },
+		        {
+		            "posInBeat": "42",
+		            "s": "55.38461538",
+		            "nodeType": "1",
+		            "index": "84"
+		        },
+		        {
+		            "posInBeat": "42.5",
+		            "s": "56.04395604",
+		            "nodeType": "1",
+		            "index": "85"
+		        },
+		        {
+		            "posInBeat": "43",
+		            "s": "56.7032967",
+		            "nodeType": "1",
+		            "index": "86"
+		        },
+		        {
+		            "posInBeat": "43.5",
+		            "s": "57.36263736",
+		            "nodeType": "1",
+		            "index": "87"
+		        },
+		        {
+		            "posInBeat": "44",
+		            "s": "58.02197802",
+		            "nodeType": "1",
+		            "index": "88"
+		        },
+		        {
+		            "posInBeat": "44.5",
+		            "s": "58.68131868",
+		            "nodeType": "1",
+		            "index": "89"
+		        },
+		        {
+		            "posInBeat": "45",
+		            "s": "59.34065934",
+		            "nodeType": "1",
+		            "index": "90"
+		        },
+		        {
+		            "posInBeat": "45.5",
+		            "s": "60",
+		            "nodeType": "1",
+		            "index": "91"
+		        },
+		        {
+		            "posInBeat": "46",
+		            "s": "60.65934066",
+		            "nodeType": "1",
+		            "index": "92"
+		        },
+		        {
+		            "posInBeat": "46.5",
+		            "s": "61.31868132",
+		            "nodeType": "1",
+		            "index": "93"
+		        },
+		        {
+		            "posInBeat": "47",
+		            "s": "61.97802198",
+		            "nodeType": "1",
+		            "index": "94"
+		        },
+		        {
+		            "posInBeat": "47.5",
+		            "s": "62.63736264",
+		            "nodeType": "1",
+		            "index": "95"
+		        },
+		        {
+		            "posInBeat": "48",
+		            "s": "63.2967033",
+		            "nodeType": "1",
+		            "index": "96"
+		        },
+		        {
+		            "posInBeat": "48.5",
+		            "s": "63.95604396",
+		            "nodeType": "1",
+		            "index": "97"
+		        },
+		        {
+		            "posInBeat": "49",
+		            "s": "64.61538462",
+		            "nodeType": "1",
+		            "index": "98"
+		        },
+		        {
+		            "posInBeat": "49.5",
+		            "s": "65.27472527",
+		            "nodeType": "1",
+		            "index": "99"
+		        },
+		        {
+		            "posInBeat": "50",
+		            "s": "65.93406593",
+		            "nodeType": "1",
+		            "index": "100"
+		        },
+		        {
+		            "posInBeat": "50.5",
+		            "s": "66.59340659",
+		            "nodeType": "1",
+		            "index": "101"
+		        },
+		        {
+		            "posInBeat": "51",
+		            "s": "67.25274725",
+		            "nodeType": "1",
+		            "index": "102"
+		        },
+		        {
+		            "posInBeat": "51.5",
+		            "s": "67.91208791",
+		            "nodeType": "1",
+		            "index": "103"
+		        },
+		        {
+		            "posInBeat": "52",
+		            "s": "68.57142857",
+		            "nodeType": "1",
+		            "index": "104"
+		        },
+		        {
+		            "posInBeat": "52.5",
+		            "s": "69.23076923",
+		            "nodeType": "1",
+		            "index": "105"
+		        },
+		        {
+		            "posInBeat": "53",
+		            "s": "69.89010989",
+		            "nodeType": "1",
+		            "index": "106"
+		        },
+		        {
+		            "posInBeat": "53.5",
+		            "s": "70.54945055",
+		            "nodeType": "1",
+		            "index": "107"
+		        },
+		        {
+		            "posInBeat": "54",
+		            "s": "71.20879121",
+		            "nodeType": "1",
+		            "index": "108"
+		        },
+		        {
+		            "posInBeat": "54.5",
+		            "s": "71.86813187",
+		            "nodeType": "1",
+		            "index": "109"
+		        },
+		        {
+		            "posInBeat": "55",
+		            "s": "72.52747253",
+		            "nodeType": "1",
+		            "index": "110"
+		        },
+		        {
+		            "posInBeat": "55.5",
+		            "s": "73.18681319",
+		            "nodeType": "1",
+		            "index": "111"
+		        },
+		        {
+		            "posInBeat": "56",
+		            "s": "73.84615385",
+		            "nodeType": "1",
+		            "index": "112"
+		        },
+		        {
+		            "posInBeat": "56.5",
+		            "s": "74.50549451",
+		            "nodeType": "1",
+		            "index": "113"
+		        },
+		        {
+		            "posInBeat": "57",
+		            "s": "75.16483516",
+		            "nodeType": "1",
+		            "index": "114"
+		        },
+		        {
+		            "posInBeat": "57.5",
+		            "s": "75.82417582",
+		            "nodeType": "1",
+		            "index": "115"
+		        },
+		        {
+		            "posInBeat": "58",
+		            "s": "76.48351648",
+		            "nodeType": "1",
+		            "index": "116"
+		        },
+		        {
+		            "posInBeat": "58.5",
+		            "s": "77.14285714",
+		            "nodeType": "1",
+		            "index": "117"
+		        },
+		        {
+		            "posInBeat": "59",
+		            "s": "77.8021978",
+		            "nodeType": "1",
+		            "index": "118"
+		        },
+		        {
+		            "posInBeat": "59.5",
+		            "s": "78.46153846",
+		            "nodeType": "1",
+		            "index": "119"
+		        },
+		        {
+		            "posInBeat": "60",
+		            "s": "79.12087912",
+		            "nodeType": "1",
+		            "index": "120"
+		        },
+		        {
+		            "posInBeat": "60.5",
+		            "s": "79.78021978",
+		            "nodeType": "1",
+		            "index": "121"
+		        },
+		        {
+		            "posInBeat": "61",
+		            "s": "80.43956044",
+		            "nodeType": "1",
+		            "index": "122"
+		        },
+		        {
+		            "posInBeat": "61.5",
+		            "s": "81.0989011",
+		            "nodeType": "1",
+		            "index": "123"
+		        },
+		        {
+		            "posInBeat": "62",
+		            "s": "81.75824176",
+		            "nodeType": "1",
+		            "index": "124"
+		        },
+		        {
+		            "posInBeat": "62.5",
+		            "s": "82.41758242",
+		            "nodeType": "1",
+		            "index": "125"
+		        },
+		        {
+		            "posInBeat": "63",
+		            "s": "83.07692308",
+		            "nodeType": "1",
+		            "index": "126"
+		        },
+		        {
+		            "posInBeat": "63.5",
+		            "s": "83.73626374",
+		            "nodeType": "1",
+		            "index": "127"
+		        },
+		        {
+		            "posInBeat": "64",
+		            "s": "84.3956044",
+		            "nodeType": "1",
+		            "index": "128"
+		        },
+		        {
+		            "posInBeat": "64.5",
+		            "s": "85.05494505",
+		            "nodeType": "1",
+		            "index": "129"
+		        },
+		        {
+		            "posInBeat": "65",
+		            "s": "85.71428571",
+		            "nodeType": "1",
+		            "index": "130"
+		        },
+		        {
+		            "posInBeat": "65.5",
+		            "s": "86.37362637",
+		            "nodeType": "1",
+		            "index": "131"
+		        },
+		        {
+		            "posInBeat": "66",
+		            "s": "87.03296703",
+		            "nodeType": "1",
+		            "index": "132"
+		        },
+		        {
+		            "posInBeat": "66.5",
+		            "s": "87.69230769",
+		            "nodeType": "1",
+		            "index": "133"
+		        },
+		        {
+		            "posInBeat": "67",
+		            "s": "88.35164835",
+		            "nodeType": "1",
+		            "index": "134"
+		        },
+		        {
+		            "posInBeat": "67.5",
+		            "s": "89.01098901",
+		            "nodeType": "1",
+		            "index": "135"
+		        },
+		        {
+		            "posInBeat": "68",
+		            "s": "89.67032967",
+		            "nodeType": "1",
+		            "index": "136"
+		        },
+		        {
+		            "posInBeat": "68.5",
+		            "s": "90.32967033",
+		            "nodeType": "1",
+		            "index": "137"
+		        },
+		        {
+		            "posInBeat": "69",
+		            "s": "90.98901099",
+		            "nodeType": "1",
+		            "index": "138"
+		        },
+		        {
+		            "posInBeat": "69.5",
+		            "s": "91.64835165",
+		            "nodeType": "1",
+		            "index": "139"
+		        },
+		        {
+		            "posInBeat": "70",
+		            "s": "92.30769231",
+		            "nodeType": "1",
+		            "index": "140"
+		        },
+		        {
+		            "posInBeat": "70.5",
+		            "s": "92.96703297",
+		            "nodeType": "1",
+		            "index": "141"
+		        },
+		        {
+		            "posInBeat": "71",
+		            "s": "93.62637363",
+		            "nodeType": "1",
+		            "index": "142"
+		        },
+		        {
+		            "posInBeat": "71.5",
+		            "s": "94.28571429",
+		            "nodeType": "1",
+		            "index": "143"
+		        },
+		        {
+		            "posInBeat": "72",
+		            "s": "94.94505495",
+		            "nodeType": "1",
+		            "index": "144"
+		        },
+		        {
+		            "posInBeat": "72.5",
+		            "s": "95.6043956",
+		            "nodeType": "1",
+		            "index": "145"
+		        },
+		        {
+		            "posInBeat": "73",
+		            "s": "96.26373626",
+		            "nodeType": "1",
+		            "index": "146"
+		        },
+		        {
+		            "posInBeat": "73.5",
+		            "s": "96.92307692",
+		            "nodeType": "1",
+		            "index": "147"
+		        },
+		        {
+		            "posInBeat": "74",
+		            "s": "97.58241758",
+		            "nodeType": "1",
+		            "index": "148"
+		        },
+		        {
+		            "posInBeat": "74.5",
+		            "s": "98.24175824",
+		            "nodeType": "1",
+		            "index": "149"
+		        },
+		        {
+		            "posInBeat": "75",
+		            "s": "98.9010989",
+		            "nodeType": "1",
+		            "index": "150"
+		        },
+		        {
+		            "posInBeat": "75.5",
+		            "s": "99.56043956",
+		            "nodeType": "1",
+		            "index": "151"
+		        },
+		        {
+		            "posInBeat": "76",
+		            "s": "100.2197802",
+		            "nodeType": "1",
+		            "index": "152"
+		        },
+		        {
+		            "posInBeat": "76.5",
+		            "s": "100.8791209",
+		            "nodeType": "1",
+		            "index": "153"
+		        },
+		        {
+		            "posInBeat": "77",
+		            "s": "101.5384615",
+		            "nodeType": "1",
+		            "index": "154"
+		        },
+		        {
+		            "posInBeat": "77.5",
+		            "s": "102.1978022",
+		            "nodeType": "1",
+		            "index": "155"
+		        },
+		        {
+		            "posInBeat": "78",
+		            "s": "102.8571429",
+		            "nodeType": "1",
+		            "index": "156"
+		        },
+		        {
+		            "posInBeat": "78.5",
+		            "s": "103.5164835",
+		            "nodeType": "1",
+		            "index": "157"
+		        },
+		        {
+		            "posInBeat": "79",
+		            "s": "104.1758242",
+		            "nodeType": "1",
+		            "index": "158"
+		        },
+		        {
+		            "posInBeat": "79.5",
+		            "s": "104.8351648",
+		            "nodeType": "1",
+		            "index": "159"
+		        },
+		        {
+		            "posInBeat": "80",
+		            "s": "105.4945055",
+		            "nodeType": "1",
+		            "index": "160"
+		        },
+		        {
+		            "posInBeat": "80.5",
+		            "s": "106.1538462",
+		            "nodeType": "1",
+		            "index": "161"
+		        },
+		        {
+		            "posInBeat": "81",
+		            "s": "106.8131868",
+		            "nodeType": "1",
+		            "index": "162"
+		        },
+		        {
+		            "posInBeat": "81.5",
+		            "s": "107.4725275",
+		            "nodeType": "1",
+		            "index": "163"
+		        },
+		        {
+		            "posInBeat": "82",
+		            "s": "108.1318681",
+		            "nodeType": "1",
+		            "index": "164"
+		        },
+		        {
+		            "posInBeat": "82.5",
+		            "s": "108.7912088",
+		            "nodeType": "1",
+		            "index": "165"
+		        },
+		        {
+		            "posInBeat": "83",
+		            "s": "109.4505495",
+		            "nodeType": "1",
+		            "index": "166"
+		        },
+		        {
+		            "posInBeat": "83.5",
+		            "s": "110.1098901",
+		            "nodeType": "1",
+		            "index": "167"
+		        },
+		        {
+		            "posInBeat": "84",
+		            "s": "110.7692308",
+		            "nodeType": "1",
+		            "index": "168"
+		        },
+		        {
+		            "posInBeat": "84.5",
+		            "s": "111.4285714",
+		            "nodeType": "1",
+		            "index": "169"
+		        },
+		        {
+		            "posInBeat": "85",
+		            "s": "112.0879121",
+		            "nodeType": "1",
+		            "index": "170"
+		        },
+		        {
+		            "posInBeat": "85.5",
+		            "s": "112.7472527",
+		            "nodeType": "1",
+		            "index": "171"
+		        },
+		        {
+		            "posInBeat": "86",
+		            "s": "113.4065934",
+		            "nodeType": "1",
+		            "index": "172"
+		        },
+		        {
+		            "posInBeat": "86.5",
+		            "s": "114.0659341",
+		            "nodeType": "1",
+		            "index": "173"
+		        },
+		        {
+		            "posInBeat": "87",
+		            "s": "114.7252747",
+		            "nodeType": "1",
+		            "index": "174"
+		        },
+		        {
+		            "posInBeat": "87.5",
+		            "s": "115.3846154",
+		            "nodeType": "1",
+		            "index": "175"
+		        },
+		        {
+		            "posInBeat": "88",
+		            "s": "116.043956",
+		            "nodeType": "1",
+		            "index": "176"
+		        },
+		        {
+		            "posInBeat": "88.5",
+		            "s": "116.7032967",
+		            "nodeType": "1",
+		            "index": "177"
+		        },
+		        {
+		            "posInBeat": "89",
+		            "s": "117.3626374",
+		            "nodeType": "1",
+		            "index": "178"
+		        },
+		        {
+		            "posInBeat": "89.5",
+		            "s": "118.021978",
+		            "nodeType": "1",
+		            "index": "179"
+		        },
+		        {
+		            "posInBeat": "90",
+		            "s": "118.6813187",
+		            "nodeType": "1",
+		            "index": "180"
+		        },
+		        {
+		            "posInBeat": "90.5",
+		            "s": "119.3406593",
+		            "nodeType": "1",
+		            "index": "181"
+		        },
+		        {
+		            "posInBeat": "91",
+		            "s": "120",
+		            "nodeType": "1",
+		            "index": "182"
+		        },
+		        {
+		            "posInBeat": "91.5",
+		            "s": "120.6593407",
+		            "nodeType": "1",
+		            "index": "183"
+		        },
+		        {
+		            "posInBeat": "92",
+		            "s": "121.3186813",
+		            "nodeType": "1",
+		            "index": "184"
+		        },
+		        {
+		            "posInBeat": "92.5",
+		            "s": "121.978022",
+		            "nodeType": "1",
+		            "index": "185"
+		        },
+		        {
+		            "posInBeat": "93",
+		            "s": "122.6373626",
+		            "nodeType": "1",
+		            "index": "186"
+		        },
+		        {
+		            "posInBeat": "93.5",
+		            "s": "123.2967033",
+		            "nodeType": "1",
+		            "index": "187"
+		        },
+		        {
+		            "posInBeat": "94",
+		            "s": "123.956044",
+		            "nodeType": "1",
+		            "index": "188"
+		        },
+		        {
+		            "posInBeat": "94.5",
+		            "s": "124.6153846",
+		            "nodeType": "1",
+		            "index": "189"
+		        },
+		        {
+		            "posInBeat": "95",
+		            "s": "125.2747253",
+		            "nodeType": "1",
+		            "index": "190"
+		        },
+		        {
+		            "posInBeat": "95.5",
+		            "s": "125.9340659",
+		            "nodeType": "1",
+		            "index": "191"
+		        },
+		        {
+		            "posInBeat": "96",
+		            "s": "126.5934066",
+		            "nodeType": "1",
+		            "index": "192"
+		        },
+		        {
+		            "posInBeat": "96.5",
+		            "s": "127.2527473",
+		            "nodeType": "1",
+		            "index": "193"
+		        },
+		        {
+		            "posInBeat": "97",
+		            "s": "127.9120879",
+		            "nodeType": "1",
+		            "index": "194"
+		        },
+		        {
+		            "posInBeat": "97.5",
+		            "s": "128.5714286",
+		            "nodeType": "1",
+		            "index": "195"
+		        },
+		        {
+		            "posInBeat": "98",
+		            "s": "129.2307692",
+		            "nodeType": "1",
+		            "index": "196"
+		        },
+		        {
+		            "posInBeat": "98.5",
+		            "s": "129.8901099",
+		            "nodeType": "1",
+		            "index": "197"
+		        },
+		        {
+		            "posInBeat": "99",
+		            "s": "130.5494505",
+		            "nodeType": "1",
+		            "index": "198"
+		        },
+		        {
+		            "posInBeat": "99.5",
+		            "s": "131.2087912",
+		            "nodeType": "1",
+		            "index": "199"
+		        },
+		        {
+		            "posInBeat": "100",
+		            "s": "131.8681319",
+		            "nodeType": "1",
+		            "index": "200"
+		        },
+		        {
+		            "posInBeat": "100.5",
+		            "s": "132.5274725",
+		            "nodeType": "1",
+		            "index": "201"
+		        },
+		        {
+		            "posInBeat": "101",
+		            "s": "133.1868132",
+		            "nodeType": "1",
+		            "index": "202"
+		        },
+		        {
+		            "posInBeat": "101.5",
+		            "s": "133.8461538",
+		            "nodeType": "1",
+		            "index": "203"
+		        },
+		        {
+		            "posInBeat": "102",
+		            "s": "134.5054945",
+		            "nodeType": "1",
+		            "index": "204"
+		        },
+		        {
+		            "posInBeat": "102.5",
+		            "s": "135.1648352",
+		            "nodeType": "1",
+		            "index": "205"
+		        },
+		        {
+		            "posInBeat": "103",
+		            "s": "135.8241758",
+		            "nodeType": "1",
+		            "index": "206"
+		        },
+		        {
+		            "posInBeat": "103.5",
+		            "s": "136.4835165",
+		            "nodeType": "1",
+		            "index": "207"
+		        },
+		        {
+		            "posInBeat": "104",
+		            "s": "137.1428571",
+		            "nodeType": "1",
+		            "index": "208"
+		        },
+		        {
+		            "posInBeat": "104.5",
+		            "s": "137.8021978",
+		            "nodeType": "1",
+		            "index": "209"
+		        },
+		        {
+		            "posInBeat": "105",
+		            "s": "138.4615385",
+		            "nodeType": "1",
+		            "index": "210"
+		        }
+		    ]
+		}
+	]
+}

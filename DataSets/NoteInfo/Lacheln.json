@@ -1,0 +1,723 @@
+{
+	"uniqueIdentifier": "db1975b40bbd48ec94d975f84f113057",
+	"bundleIdentifier": "2c89a498317848aab9fe46cd70bf74bb",
+	"category": "userdataset",
+	"entryId": "479927c6-1dc4-42d3-a2b9-a78dcf6bac52",
+	"contents": [
+		{
+		    "name": "Lacheln",
+		    "id": "479927c6-1dc4-42d3-a2b9-a78dcf6bac52",
+		    "serveronly": false,
+		    "columns": [
+		        "index",
+		        "posInBeat",
+		        "s",
+		        "nodeType"
+		    ],
+		    "datas": [
+		        {
+		            "posInBeat": "0.5",
+		            "s": "0.6666666667",
+		            "nodeType": "1",
+		            "index": "1"
+		        },
+		        {
+		            "posInBeat": "1",
+		            "s": "1.333333333",
+		            "nodeType": "1",
+		            "index": "2"
+		        },
+		        {
+		            "posInBeat": "1.5",
+		            "s": "2",
+		            "nodeType": "1",
+		            "index": "3"
+		        },
+		        {
+		            "posInBeat": "2",
+		            "s": "2.666666667",
+		            "nodeType": "1",
+		            "index": "4"
+		        },
+		        {
+		            "posInBeat": "2.5",
+		            "s": "3.333333333",
+		            "nodeType": "1",
+		            "index": "5"
+		        },
+		        {
+		            "posInBeat": "3",
+		            "s": "4",
+		            "nodeType": "1",
+		            "index": "6"
+		        },
+		        {
+		            "posInBeat": "3.5",
+		            "s": "4.666666667",
+		            "nodeType": "1",
+		            "index": "7"
+		        },
+		        {
+		            "posInBeat": "4",
+		            "s": "5.333333333",
+		            "nodeType": "1",
+		            "index": "8"
+		        },
+		        {
+		            "posInBeat": "4.5",
+		            "s": "6",
+		            "nodeType": "1",
+		            "index": "9"
+		        },
+		        {
+		            "posInBeat": "5",
+		            "s": "6.666666667",
+		            "nodeType": "1",
+		            "index": "10"
+		        },
+		        {
+		            "posInBeat": "5.5",
+		            "s": "7.333333333",
+		            "nodeType": "1",
+		            "index": "11"
+		        },
+		        {
+		            "posInBeat": "6",
+		            "s": "8",
+		            "nodeType": "1",
+		            "index": "12"
+		        },
+		        {
+		            "posInBeat": "6.5",
+		            "s": "8.666666667",
+		            "nodeType": "1",
+		            "index": "13"
+		        },
+		        {
+		            "posInBeat": "7",
+		            "s": "9.333333333",
+		            "nodeType": "1",
+		            "index": "14"
+		        },
+		        {
+		            "posInBeat": "7.5",
+		            "s": "10",
+		            "nodeType": "1",
+		            "index": "15"
+		        },
+		        {
+		            "posInBeat": "8",
+		            "s": "10.66666667",
+		            "nodeType": "1",
+		            "index": "16"
+		        },
+		        {
+		            "posInBeat": "8.5",
+		            "s": "11.33333333",
+		            "nodeType": "1",
+		            "index": "17"
+		        },
+		        {
+		            "posInBeat": "9",
+		            "s": "12",
+		            "nodeType": "1",
+		            "index": "18"
+		        },
+		        {
+		            "posInBeat": "9.5",
+		            "s": "12.66666667",
+		            "nodeType": "1",
+		            "index": "19"
+		        },
+		        {
+		            "posInBeat": "10",
+		            "s": "13.33333333",
+		            "nodeType": "1",
+		            "index": "20"
+		        },
+		        {
+		            "posInBeat": "10.5",
+		            "s": "14",
+		            "nodeType": "1",
+		            "index": "21"
+		        },
+		        {
+		            "posInBeat": "11",
+		            "s": "14.66666667",
+		            "nodeType": "1",
+		            "index": "22"
+		        },
+		        {
+		            "posInBeat": "11.5",
+		            "s": "15.33333333",
+		            "nodeType": "1",
+		            "index": "23"
+		        },
+		        {
+		            "posInBeat": "12",
+		            "s": "16",
+		            "nodeType": "1",
+		            "index": "24"
+		        },
+		        {
+		            "posInBeat": "12.5",
+		            "s": "16.66666667",
+		            "nodeType": "1",
+		            "index": "25"
+		        },
+		        {
+		            "posInBeat": "13",
+		            "s": "17.33333333",
+		            "nodeType": "1",
+		            "index": "26"
+		        },
+		        {
+		            "posInBeat": "13.5",
+		            "s": "18",
+		            "nodeType": "1",
+		            "index": "27"
+		        },
+		        {
+		            "posInBeat": "14",
+		            "s": "18.66666667",
+		            "nodeType": "1",
+		            "index": "28"
+		        },
+		        {
+		            "posInBeat": "14.5",
+		            "s": "19.33333333",
+		            "nodeType": "1",
+		            "index": "29"
+		        },
+		        {
+		            "posInBeat": "15",
+		            "s": "20",
+		            "nodeType": "1",
+		            "index": "30"
+		        },
+		        {
+		            "posInBeat": "15.5",
+		            "s": "20.66666667",
+		            "nodeType": "1",
+		            "index": "31"
+		        },
+		        {
+		            "posInBeat": "16",
+		            "s": "21.33333333",
+		            "nodeType": "1",
+		            "index": "32"
+		        },
+		        {
+		            "posInBeat": "16.5",
+		            "s": "22",
+		            "nodeType": "1",
+		            "index": "33"
+		        },
+		        {
+		            "posInBeat": "17",
+		            "s": "22.66666667",
+		            "nodeType": "1",
+		            "index": "34"
+		        },
+		        {
+		            "posInBeat": "17.5",
+		            "s": "23.33333333",
+		            "nodeType": "1",
+		            "index": "35"
+		        },
+		        {
+		            "posInBeat": "18",
+		            "s": "24",
+		            "nodeType": "1",
+		            "index": "36"
+		        },
+		        {
+		            "posInBeat": "18.5",
+		            "s": "24.66666667",
+		            "nodeType": "1",
+		            "index": "37"
+		        },
+		        {
+		            "posInBeat": "19",
+		            "s": "25.33333333",
+		            "nodeType": "1",
+		            "index": "38"
+		        },
+		        {
+		            "posInBeat": "19.5",
+		            "s": "26",
+		            "nodeType": "1",
+		            "index": "39"
+		        },
+		        {
+		            "posInBeat": "20",
+		            "s": "26.66666667",
+		            "nodeType": "1",
+		            "index": "40"
+		        },
+		        {
+		            "posInBeat": "20.5",
+		            "s": "27.33333333",
+		            "nodeType": "1",
+		            "index": "41"
+		        },
+		        {
+		            "posInBeat": "21",
+		            "s": "28",
+		            "nodeType": "1",
+		            "index": "42"
+		        },
+		        {
+		            "posInBeat": "21.5",
+		            "s": "28.66666667",
+		            "nodeType": "1",
+		            "index": "43"
+		        },
+		        {
+		            "posInBeat": "22",
+		            "s": "29.33333333",
+		            "nodeType": "1",
+		            "index": "44"
+		        },
+		        {
+		            "posInBeat": "22.5",
+		            "s": "30",
+		            "nodeType": "1",
+		            "index": "45"
+		        },
+		        {
+		            "posInBeat": "23",
+		            "s": "30.66666667",
+		            "nodeType": "1",
+		            "index": "46"
+		        },
+		        {
+		            "posInBeat": "23.5",
+		            "s": "31.33333333",
+		            "nodeType": "1",
+		            "index": "47"
+		        },
+		        {
+		            "posInBeat": "24",
+		            "s": "32",
+		            "nodeType": "1",
+		            "index": "48"
+		        },
+		        {
+		            "posInBeat": "24.5",
+		            "s": "32.66666667",
+		            "nodeType": "1",
+		            "index": "49"
+		        },
+		        {
+		            "posInBeat": "25",
+		            "s": "33.33333333",
+		            "nodeType": "1",
+		            "index": "50"
+		        },
+		        {
+		            "posInBeat": "25.5",
+		            "s": "34",
+		            "nodeType": "1",
+		            "index": "51"
+		        },
+		        {
+		            "posInBeat": "26",
+		            "s": "34.66666667",
+		            "nodeType": "1",
+		            "index": "52"
+		        },
+		        {
+		            "posInBeat": "26.5",
+		            "s": "35.33333333",
+		            "nodeType": "1",
+		            "index": "53"
+		        },
+		        {
+		            "posInBeat": "27",
+		            "s": "36",
+		            "nodeType": "1",
+		            "index": "54"
+		        },
+		        {
+		            "posInBeat": "27.5",
+		            "s": "36.66666667",
+		            "nodeType": "1",
+		            "index": "55"
+		        },
+		        {
+		            "posInBeat": "28",
+		            "s": "37.33333333",
+		            "nodeType": "1",
+		            "index": "56"
+		        },
+		        {
+		            "posInBeat": "28.5",
+		            "s": "38",
+		            "nodeType": "1",
+		            "index": "57"
+		        },
+		        {
+		            "posInBeat": "29",
+		            "s": "38.66666667",
+		            "nodeType": "1",
+		            "index": "58"
+		        },
+		        {
+		            "posInBeat": "29.5",
+		            "s": "39.33333333",
+		            "nodeType": "1",
+		            "index": "59"
+		        },
+		        {
+		            "posInBeat": "30",
+		            "s": "40",
+		            "nodeType": "1",
+		            "index": "60"
+		        },
+		        {
+		            "posInBeat": "30.5",
+		            "s": "40.66666667",
+		            "nodeType": "1",
+		            "index": "61"
+		        },
+		        {
+		            "posInBeat": "31",
+		            "s": "41.33333333",
+		            "nodeType": "1",
+		            "index": "62"
+		        },
+		        {
+		            "posInBeat": "31.5",
+		            "s": "42",
+		            "nodeType": "1",
+		            "index": "63"
+		        },
+		        {
+		            "posInBeat": "32",
+		            "s": "42.66666667",
+		            "nodeType": "1",
+		            "index": "64"
+		        },
+		        {
+		            "posInBeat": "32.5",
+		            "s": "43.33333333",
+		            "nodeType": "1",
+		            "index": "65"
+		        },
+		        {
+		            "posInBeat": "33",
+		            "s": "44",
+		            "nodeType": "1",
+		            "index": "66"
+		        },
+		        {
+		            "posInBeat": "33.5",
+		            "s": "44.66666667",
+		            "nodeType": "1",
+		            "index": "67"
+		        },
+		        {
+		            "posInBeat": "34",
+		            "s": "45.33333333",
+		            "nodeType": "1",
+		            "index": "68"
+		        },
+		        {
+		            "posInBeat": "34.5",
+		            "s": "46",
+		            "nodeType": "1",
+		            "index": "69"
+		        },
+		        {
+		            "posInBeat": "35",
+		            "s": "46.66666667",
+		            "nodeType": "1",
+		            "index": "70"
+		        },
+		        {
+		            "posInBeat": "35.5",
+		            "s": "47.33333333",
+		            "nodeType": "1",
+		            "index": "71"
+		        },
+		        {
+		            "posInBeat": "36",
+		            "s": "48",
+		            "nodeType": "1",
+		            "index": "72"
+		        },
+		        {
+		            "posInBeat": "36.5",
+		            "s": "48.66666667",
+		            "nodeType": "1",
+		            "index": "73"
+		        },
+		        {
+		            "posInBeat": "37",
+		            "s": "49.33333333",
+		            "nodeType": "1",
+		            "index": "74"
+		        },
+		        {
+		            "posInBeat": "37.5",
+		            "s": "50",
+		            "nodeType": "1",
+		            "index": "75"
+		        },
+		        {
+		            "posInBeat": "38",
+		            "s": "50.66666667",
+		            "nodeType": "1",
+		            "index": "76"
+		        },
+		        {
+		            "posInBeat": "38.5",
+		            "s": "51.33333333",
+		            "nodeType": "1",
+		            "index": "77"
+		        },
+		        {
+		            "posInBeat": "39",
+		            "s": "52",
+		            "nodeType": "1",
+		            "index": "78"
+		        },
+		        {
+		            "posInBeat": "39.5",
+		            "s": "52.66666667",
+		            "nodeType": "1",
+		            "index": "79"
+		        },
+		        {
+		            "posInBeat": "40",
+		            "s": "53.33333333",
+		            "nodeType": "1",
+		            "index": "80"
+		        },
+		        {
+		            "posInBeat": "40.5",
+		            "s": "54",
+		            "nodeType": "1",
+		            "index": "81"
+		        },
+		        {
+		            "posInBeat": "41",
+		            "s": "54.66666667",
+		            "nodeType": "1",
+		            "index": "82"
+		        },
+		        {
+		            "posInBeat": "41.5",
+		            "s": "55.33333333",
+		            "nodeType": "1",
+		            "index": "83"
+		        },
+		        {
+		            "posInBeat": "42",
+		            "s": "56",
+		            "nodeType": "1",
+		            "index": "84"
+		        },
+		        {
+		            "posInBeat": "42.5",
+		            "s": "56.66666667",
+		            "nodeType": "1",
+		            "index": "85"
+		        },
+		        {
+		            "posInBeat": "43",
+		            "s": "57.33333333",
+		            "nodeType": "1",
+		            "index": "86"
+		        },
+		        {
+		            "posInBeat": "43.5",
+		            "s": "58",
+		            "nodeType": "1",
+		            "index": "87"
+		        },
+		        {
+		            "posInBeat": "44",
+		            "s": "58.66666667",
+		            "nodeType": "1",
+		            "index": "88"
+		        },
+		        {
+		            "posInBeat": "44.5",
+		            "s": "59.33333333",
+		            "nodeType": "1",
+		            "index": "89"
+		        },
+		        {
+		            "posInBeat": "45",
+		            "s": "60",
+		            "nodeType": "1",
+		            "index": "90"
+		        },
+		        {
+		            "posInBeat": "45.5",
+		            "s": "60.66666667",
+		            "nodeType": "1",
+		            "index": "91"
+		        },
+		        {
+		            "posInBeat": "46",
+		            "s": "61.33333333",
+		            "nodeType": "1",
+		            "index": "92"
+		        },
+		        {
+		            "posInBeat": "46.5",
+		            "s": "62",
+		            "nodeType": "1",
+		            "index": "93"
+		        },
+		        {
+		            "posInBeat": "47",
+		            "s": "62.66666667",
+		            "nodeType": "1",
+		            "index": "94"
+		        },
+		        {
+		            "posInBeat": "47.5",
+		            "s": "63.33333333",
+		            "nodeType": "1",
+		            "index": "95"
+		        },
+		        {
+		            "posInBeat": "48",
+		            "s": "64",
+		            "nodeType": "1",
+		            "index": "96"
+		        },
+		        {
+		            "posInBeat": "48.5",
+		            "s": "64.66666667",
+		            "nodeType": "1",
+		            "index": "97"
+		        },
+		        {
+		            "posInBeat": "49",
+		            "s": "65.33333333",
+		            "nodeType": "1",
+		            "index": "98"
+		        },
+		        {
+		            "posInBeat": "49.5",
+		            "s": "66",
+		            "nodeType": "1",
+		            "index": "99"
+		        },
+		        {
+		            "posInBeat": "50",
+		            "s": "66.66666667",
+		            "nodeType": "1",
+		            "index": "100"
+		        },
+		        {
+		            "posInBeat": "50.5",
+		            "s": "67.33333333",
+		            "nodeType": "1",
+		            "index": "101"
+		        },
+		        {
+		            "posInBeat": "51",
+		            "s": "68",
+		            "nodeType": "1",
+		            "index": "102"
+		        },
+		        {
+		            "posInBeat": "51.5",
+		            "s": "68.66666667",
+		            "nodeType": "1",
+		            "index": "103"
+		        },
+		        {
+		            "posInBeat": "52",
+		            "s": "69.33333333",
+		            "nodeType": "1",
+		            "index": "104"
+		        },
+		        {
+		            "posInBeat": "52.5",
+		            "s": "70",
+		            "nodeType": "1",
+		            "index": "105"
+		        },
+		        {
+		            "posInBeat": "53",
+		            "s": "70.66666667",
+		            "nodeType": "1",
+		            "index": "106"
+		        },
+		        {
+		            "posInBeat": "53.5",
+		            "s": "71.33333333",
+		            "nodeType": "1",
+		            "index": "107"
+		        },
+		        {
+		            "posInBeat": "54",
+		            "s": "72",
+		            "nodeType": "1",
+		            "index": "108"
+		        },
+		        {
+		            "posInBeat": "54.5",
+		            "s": "72.66666667",
+		            "nodeType": "1",
+		            "index": "109"
+		        },
+		        {
+		            "posInBeat": "55",
+		            "s": "73.33333333",
+		            "nodeType": "1",
+		            "index": "110"
+		        },
+		        {
+		            "posInBeat": "55.5",
+		            "s": "74",
+		            "nodeType": "1",
+		            "index": "111"
+		        },
+		        {
+		            "posInBeat": "56",
+		            "s": "74.66666667",
+		            "nodeType": "1",
+		            "index": "112"
+		        },
+		        {
+		            "posInBeat": "56.5",
+		            "s": "75.33333333",
+		            "nodeType": "1",
+		            "index": "113"
+		        },
+		        {
+		            "posInBeat": "57",
+		            "s": "76",
+		            "nodeType": "1",
+		            "index": "114"
+		        },
+		        {
+		            "posInBeat": "57.5",
+		            "s": "76.66666667",
+		            "nodeType": "1",
+		            "index": "115"
+		        },
+		        {
+		            "posInBeat": "58",
+		            "s": "77.33333333",
+		            "nodeType": "1",
+		            "index": "116"
+		        },
+		        {
+		            "posInBeat": "58.5",
+		            "s": "78",
+		            "nodeType": "1",
+		            "index": "117"
+		        }
+		    ]
+		}
+	]
+}
